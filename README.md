@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MertcanTekin
+- 👋 Hi, I’m Mertcan Tekin
 - I have graduated from Eskişehir Osmangazi University Industrial Engineering
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning python and Sql
